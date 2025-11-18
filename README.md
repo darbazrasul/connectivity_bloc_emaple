@@ -197,7 +197,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-Your Name - [@darbazrasul](https://github.com/darbazrasul)
+Darbaz Rasul - [@darbazrasul](https://github.com/darbazrasul)
 
 ## Acknowledgments
 
